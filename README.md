@@ -16,3 +16,4 @@ https://mp.weixin.qq.com/s/9-__B0MBRSXHla6O0KU7Gg
 
 ### 每次都上传前一个版本。
 ### 最新版本见知识星球
+### 知识星球免费！！！
